@@ -36,7 +36,7 @@ npm install
 
 Run:
 
-- `npm run start` to work on the exercises and run the completed app
+- `npm start` to work on the exercises and run the completed app
 
 Or:
 
