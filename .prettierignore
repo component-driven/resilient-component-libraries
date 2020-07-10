@@ -1,0 +1,4 @@
+build/
+scripts/vendor/
+.cache/
+src/exercises/*/templates/**
