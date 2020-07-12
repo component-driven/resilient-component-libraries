@@ -9,7 +9,7 @@
 		"start": "run-p app exercises",
 		"preapp": "npm run validate",
 		"app": "gatsby develop",
-		"build": "gatsby clean && gatsby build --prefix-paths && npm run styleguide:build",
+		"build": "gatsby clean && gatsby build --prefix-paths",
 		"exercises": "styleguidist server --open",
 		"test": "eslint src",
 		"format": "prettier --write '**/*.{js,md,mdx}'",
