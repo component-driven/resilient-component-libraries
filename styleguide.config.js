@@ -76,8 +76,17 @@ const config = {
 			.basename(folder)
 			.replace(/^(\d+)-/, '$1. ')
 			.replace(/_/g, ' '),
-		content: `${folder}/Readme.md`,
-		components: `${folder}/*.js`,
+		sectionDepth: 1,
+		sections: [
+			{
+				name: 'Task',
+				content: `${folder}/Readme.md`,
+			},
+			{
+				name: 'Exercises',
+				components: `${folder}/*.js`,
+			},
+		],
 	})),
 };
 
