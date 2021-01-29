@@ -4,7 +4,7 @@ This repository contains exercises for **Resilient component libraries in React*
 
 _Before attending the workshop, please make sure you can run the code in this repository._
 
-**[Try the completed app](https://rcl.component-driven.io/) or [view the slides](https://rcl.component-driven.io/slides/).**
+**[Try the completed app](https://rcl.component-driven.dev/) or [view the slides](https://rcl.component-driven.dev/slides/).**
 
 ## Prerequisites
 
@@ -57,4 +57,4 @@ Or:
 
 [Artem Sapegin](https://sapegin.me), [Andrey Okonetchnikov](https://okonet.ru/).
 
-This material is available for private, non-commercial use under the Creative Commons Attribution-NonCommercial 4.0 license. If you would like to use this material to conduct your own workshop, please contact us at hi@component-driven.io.
+This material is available for private, non-commercial use under the Creative Commons Attribution-NonCommercial 4.0 license. If you would like to use this material to conduct your own workshop, please contact us at hi@component-driven.dev.
